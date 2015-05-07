@@ -37,6 +37,11 @@ function draw() {
     y = random(height/2 - height/5,height/2 + height/5);
     addFlock(x,y);
   }
+
+
+  //stroke(0,0,0,1);
+ // fill(0,0,0,1);
+ // rect(0,0,width,height);
 }
 
 
